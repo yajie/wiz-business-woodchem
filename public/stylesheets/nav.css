@@ -1,0 +1,64 @@
+.wizcontainer{
+	width: 1003px;
+	height: 198px;
+	padding: 0px;
+	position:relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.mainbody{
+	position: relative;
+	width: 1003px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#menu{
+	width:600px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	color: #e3dede;
+}
+
+#menu a {
+display: block;
+height: 23px;
+margin: 0px 1px 0px 0px;
+padding: 10px 0px 0px 0px;
+background: url(/images/img06.jpg) repeat-x left top;
+color: #e3dede;
+text-decoration: none;
+text-transform: uppercase;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+text-align: center;
+}
+
+#menu a:hover {
+color: #ffffff;
+background: url(/images/img06_hover.jpg) repeat-x left top;
+}
+
+#menu ul {
+float: left;
+margin: 0px 0px 0px 0px;
+padding: 5px 0px 0px 0px;
+list-style: none;
+}
+
+
+
+ul li{
+	list-style: none;
+	display: inline;
+	/*background-color: #277189;*/
+	/*background-color: #4272A6;*/
+	font-size: 16px;
+	text-align: center;
+	height:33px;
+	float:left;
+}

@@ -1,0 +1,12 @@
+#menu > ul > li{ background-color:#222222; }
+
+.TD_time {text-align:right;padding-left:10px;vertical-align:top;padding-right:10px;padding-top:5px;}
+		  
+.TD_time > span {font-size:10px;font-weight:bold;}
+
+.TD_titlle {padding-top:5px;}
+
+.TD_title > div {font-size:12px;font-weight:bold;vertical-align:top;text-align:left;}
+
+.TD_title > span {font-size:10px;text-align:left;margin:1px,2px,2px,0px;}		
+ 		
