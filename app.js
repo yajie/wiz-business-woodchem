@@ -30,7 +30,7 @@ var register = require('./routes/register');
 var app = express();
 
 // all environments
-app.set('port', process.env.PORT || 3004);
+app.set('port', process.env.PORT || 3005);
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(express.favicon());
